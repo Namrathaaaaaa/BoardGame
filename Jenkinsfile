@@ -25,7 +25,7 @@ pipeline {
         }
         stage('Hello') {
             steps {
-                echo 'Hello World , Hello Everyone!'
+                echo 'Hello World !'
             }
         }
     }
